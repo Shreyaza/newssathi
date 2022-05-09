@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "rtl-nieuws", "name": "RTL Nieuws" },
+      "author": "RTL Nieuws",
+      "title": "Weer medaille Eileen Gu: made in USA, maar goud waard voor China",
+      "description": "Het is een opvallende verschijning op de Olympische Winterspelen: een Chinees ijshockeyteam waar het wemelt van de Amerikanen. Of wat te denken van Eileen Gu, die vandaag zilver won op de ski's, waar ze eerder ook al goud pakte in Peking. Ze is geboren in de …",
+      "url": "https://www.rtlnieuws.nl/nieuws/buitenland/artikel/5288187/china-eileen-gu-medaillespiegel-naturalisatie",
+      "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/content/images/2022/02/15/Gu%201.jpg?itok=mIMwNyWi&width=2048&height=1152&impolicy=semi_dynamic",
+      "publishedAt": "2022-02-15T03:38:05+00:00",
+      "content": "Maar voor sommige atleten is er geen familieband, of zelfs helemáál geen link met China. Bijvoorbeeld in het geval van sommige ijshockeyers die voor China uitkomen. Neem Jack Chelios, de 30-jarige ij… [+278 chars]"
+    },
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "Fantasy Hockey Staff",
+      "title": "Fantasy hockey top 100 forward rankings",
+      "description": "NHL.com ranks the top 100 fantasy hockey forwards in standard leagues for the rest of the 2021-22 season.",
+      "url": "https://www.nhl.com/news/nhl-fantasy-hockey-top-100-forward-rankings-pools/c-282775028",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/330798256/1024x576/cut.jpg",
+      "publishedAt": "2022-02-14T20:53:35Z",
+      "content": "NHL.com ranks the top 100 fantasy hockey forwards in standard leagues for the rest of the 2021-22 season. For more coverage, visit NHL.com/Fantasy and subscribe for free to the \"NHL Fantasy on Ice\" p… [+4533 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "2022 Winter Olympics: Kallie Humphries earns gold for U.S. on Day 10",
+      "description": "The U.S. made history in bobsled, and the women's hockey team reached the gold medal game on Day 10 at the Winter Games.",
+      "url": "http://www.foxsports.com/stories/olympics/2022-winter-olympics-kallie-humphries-earns-gold-us-day-10",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/02/1408/814/2.14.22_2022-Winter-Olympics_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-02-14T18:39:58Z",
+      "content": "It was another record-setting day at the 2022 Winter Games\r\n on Monday.\r\nIn fact, the entire weekend was epic for Team USA, as Lindsey Jacobellis and Nick Baumgartner earned gold for the U.S. in the … [+3665 chars]"
+    },
+    {
+      "source": { "id": "focus", "name": "Focus" },
+      "author": "FOCUS Online",
+      "title": "ZDF bricht bei Olympia Eishockey-Übertragung ab - Spielerfrau attackiert Sender",
+      "description": "Die Ehefrau von Eishockey-Nationalmannschaftskapitän Moritz Müller wütet öffentlich gegen das ZDF. Der Grund: Der Sender beendet die TV-Übertragung des Auftaktspiels der deutschen Mannschaft gegen Kanada vorzeitig und wechselt zum Rodeln.",
+      "url": "https://www.focus.de/sport/wintersport/olympia-in-peking-zdf-bricht-eishockey-uebertragung-vorzeitig-ab-spielerfrau-attackiert-jetzt-den-sender_id_51566420.html",
+      "urlToImage": "https://p6.focus.de/img/fotos/id_51565025/imago0041968011h.jpg?im=Crop%3D%280%2C195%2C2309%2C1155%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=medium&hash=40ef663012f421a7381755f86bd031ec50fcffda7e9318a094f1ae7555d25407",
+      "publishedAt": "2022-02-11T07:59:19Z",
+      "content": "Die Ehefrau von Eishockey-Nationalmannschaftskapitän Moritz Müller wütet öffentlich gegen das ZDF. Der Grund: Der Sender beendet die TV-Übertragung des Auftaktspiels der deutschen Mannschaft gegen Ka… [+2026 chars]"
+    }
+  ]
+}
